@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Hi there! I'm 李一平 (Yiping Li)  
 
 <!--
 **neuliyiping/neuliyiping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Autonomous driving system development engineer @美团
+🌱 Learning: C++ | Go | Python | Linux Kernel | Distributed Systems
+💡 Passionate about Architecture Design & Performance Optimization 
+🚀 Advocate: Clean Code
+📫 zhangjianxi9@gmail.com

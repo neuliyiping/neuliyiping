@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 📫 sxwuyanzu@liyiping.cn
 
-📱：![](vx.png)
+📱：![](vx.png =300x300)

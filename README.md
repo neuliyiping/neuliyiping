@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 📫 sxwuyanzu@liyiping.cn
 
-📱：![](vx.png#pic_center =300x300)
+📱：<img src="https://github.com/neuliyiping/neuliyiping/blob/main/vx.png" width="300px">
